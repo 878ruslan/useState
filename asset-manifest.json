@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/878ruslan/useState.git/static/css/main.26b258ba.css",
+    "main.js": "/878ruslan/useState.git/static/js/main.e4bd4293.js",
+    "index.html": "/878ruslan/useState.git/index.html",
+    "main.26b258ba.css.map": "/878ruslan/useState.git/static/css/main.26b258ba.css.map",
+    "main.e4bd4293.js.map": "/878ruslan/useState.git/static/js/main.e4bd4293.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26b258ba.css",
+    "static/js/main.e4bd4293.js"
+  ]
+}
